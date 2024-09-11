@@ -1,0 +1,27 @@
+* {
+    font-family: sans-serif;
+    background-color: #cabfa1;
+}
+
+h1 {
+    font-family: Garamond;
+    text-shadow: 5px 5px 5px #333333;
+    text-align: center;
+}
+
+h2 {
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+
+img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border: 5px solid #555;
+}
+
+li {
+    text-decoration-line: none;
+}
